@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Name": "Majesty Palm 1",
+    "ImageUrl": "shop-7-img.jpg",
+    "Price": 251.00,
+    "CategoryId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Majesty Palm 2",
+    "ImageUrl": "shop-8-img.jpg",
+    "Price": 252.00,
+    "CategoryId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Majesty Palm 3",
+    "ImageUrl": "shop-9-img.jpg",
+    "Price": 253.00,
+    "CategoryId": 2
+  },
+  {
+    "Id": 4,
+    "Name": "Majesty Palm 4",
+    "ImageUrl": "shop-10-img.jpg",
+    "Price": 254.00,
+    "CategoryId": 2
+  },
+  {
+    "Id": 2013,
+    "Name": "Majesty Palm 5",
+    "ImageUrl": "shop-11-img.jpg",
+    "Price": 255.00,
+    "CategoryId": 5
+  },
+  {
+    "Id": 2014,
+    "Name": "Majesty Palm 6",
+    "ImageUrl": "shop-12-img.jpg",
+    "Price": 256.00,
+    "CategoryId": 5
+  },
+  {
+    "Id": 2015,
+    "Name": "Majesty Palm 7",
+    "ImageUrl": "shop-13-img.jpg",
+    "Price": 257.00,
+    "CategoryId": 6
+  },
+  {
+    "Id": 2016,
+    "Name": "Majesty Palm 8",
+    "ImageUrl": "shop-14-img.jpg",
+    "Price": 258.00,
+    "CategoryId": 6
+  },
+  {
+    "Id": 2017,
+    "Name": "Majesty Palm 9",
+    "ImageUrl": "shop-7-img.jpg",
+    "Price": 259.00,
+    "CategoryId": 7
+  },
+  {
+    "Id": 2018,
+    "Name": "Majesty Palm 10",
+    "ImageUrl": "shop-8-img.jpg",
+    "Price": 260.00,
+    "CategoryId": 8
+  },
+  {
+    "Id": 2019,
+    "Name": "Qoca Chinar 11",
+    "ImageUrl": "shop-15-img.jpeg",
+    "Price": 261.00,
+    "CategoryId": 1002
+  },
+  {
+    "Id": 3021,
+    "Name": "Cavan Chinar 12",
+    "ImageUrl": "shop-10-img.jpg",
+    "Price": 262.00,
+    "CategoryId": 1002
+  }
+]

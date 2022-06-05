@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "Popular"
+  },
+  {
+    "Id": 2,
+    "Name": "Winter"
+  },
+  {
+    "Id": 5,
+    "Name": "Various"
+  },
+  {
+    "Id": 6,
+    "Name": "Exotic"
+  },
+  {
+    "Id": 7,
+    "Name": "Greens"
+  },
+  {
+    "Id": 8,
+    "Name": "Cactuses"
+  },
+  {
+    "Id": 1002,
+    "Name": "Chinar"
+  }
+]

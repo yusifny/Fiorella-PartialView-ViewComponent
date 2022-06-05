@@ -1,0 +1,18 @@
+[
+  {
+    "MigrationId": "20220531023651_InitialProject",
+    "ProductVersion": "3.1.0"
+  },
+  {
+    "MigrationId": "20220531205540_pageIntroTable",
+    "ProductVersion": "3.1.0"
+  },
+  {
+    "MigrationId": "20220531231801_relationCategoryProduct",
+    "ProductVersion": "3.1.0"
+  },
+  {
+    "MigrationId": "20220605145643_BioTable",
+    "ProductVersion": "3.1.0"
+  }
+]
